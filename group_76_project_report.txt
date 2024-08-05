@@ -1,0 +1,104 @@
+Phase 2 Marking Scheme
+
+Team Name: group_76
+
+PROJECT DEMO (worth 30%)
+
+One feature per person presented and are innovative, clear, stable, address accessibility concerns (12 marks)
+
+One design choice per team member is clearly explained (10 marks)
+
+Distribution of work across teammates is clear and fair (4 marks)
+
+All teammates contribute to demo (4 marks)
+
+Features: 12/12
+Designs: 10/10
+Distribution: 4/4
+Contributions 4/4
+
+TOTAL: 30/30
+
+COMMENTS ON DEMO: 
+
+We loved this project! Touch grass is a nice name ... but ironic, eh?  Is a simulation of touching grass more effective than heading into the back yard?
+
+Front end is lovely; lots of logic there.  Look at MVVM pattern as alternative to MVC.  Factory appropriate for grasses, color changing feature is excellent, and gen Z mode made us laugh.  Interesting in that this is maybe an accessibility feature of sorts!  Note that there are inherent tradeoffs in accessibility engineering; features that make software accessible to some can be inaccessible to others. 
+
+Runa suggests looking at audiogames.net for examples of 3D sound games, as there are some minesweeper examples out there.
+
+Group worked great together; the project turned out super well!
+
+**Thank you for the Live Demo!**
+
+PROCESS MARKS (40%)
+
+User stories identified (IDs correspond to design document) and branches in GitLab repository can be easily related to user stories  (4 marks)
+
+IDS missing in design document
+
+Retrospective notes indicate process refined/improved;  GitFlow process is stable by final iteration (4 marks) 
+
+User stories initiated early and there is evidence of incremental commits with intuitive commit messages  (8 marks)
+
+Merge requests/code reviews exist at each iteration (8 marks)
+
+Obviuosly merge happened but can't find any merge requests
+
+Incremental commits include tests (8 marks)
+
+Missing test file, 2 marks assuming GUI was tested
+
+Incremental commits include documentation (JavaDoc)  (8 marks)
+
+User Stories: 3/4
+Retrospectives/Process Improvement: 4/4
+Incremental, Clear Commits: 8/8
+Merge Requests: 4/8
+Tests: 6/8
+Documentation: 8/8
+
+TOTAL: 33/40
+
+FINAL REPORT + DESIGN DOCUMENT REVISION (20%)
+
+Goals and Stories selected for each sprint are clear in Final Report (4 marks)
+
+Retrospectives are clear and meaningful in Final Report (2 marks)
+
+Code Reviews (Merge Requests) are accessible in Final Report (2 marks)
+
+Process is summarized well in final report (4 marks)
+
+UML/Design Patterns reflect what was completed (8 marks)
+
+Goals/Stories: 4/4
+Retrospectives: 2/2
+Code Reviews: 0/2
+Process Documentation: 4/4
+UML/Design Patterns: 8/8
+
+TOTAL: 18/20
+
+WRITING QUALITY OF FINAL REPORT/DESIGN DOCUMENT (10%)
+
+Structure (4 marks): Organization of final report + design document is logical and clear.
+
+Mechanics (3 marks):  Sentences must be complete, grammatically correct, and well written.
+
+Appropriateness for the Audience (3 marks): Writing must be appropriate for consumption by a technical audience.
+
+Structure: 4/4
+Mechanics: 3/3
+Appropriateness: 3/3
+
+TOTAL: 10/10
+
+COMMENTS: 
+
+TOTAL MARK FOR PHASE 2: 91/100 
+
+NOTE THAT SOME MARK ADJUSTMENTS MAY HAVE BEEN MADE ON AN INDIVIDUAL BASIS, BASED ON THE RELATIVE CONTRIBUTIONS OF INDIVIDUAL MEMBERS OF YOUR TEAM.  THE MARK ABOVE IS FOR YOUR GROUP; FINAL MARKS (PER PERSON) WILL BE POSTED TO MARKUS .... ONCE MARKUS IS BACK ONLINE.
+
+
+

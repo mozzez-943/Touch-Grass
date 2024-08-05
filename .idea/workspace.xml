@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ee3391b3-1e8d-4a40-8619-02582a90f90d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/TouchGrassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/ColorblindMode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/ColorblindModeState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/NormalMode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TouchGrassModel/Grid.java" beforeDir="false" afterPath="$PROJECT_DIR$/TouchGrassModel/Grid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TouchGrassModel/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/TouchGrassModel/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TouchGrassModel/ItemShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/TouchGrassModel/ItemShop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TouchGrassModel/Money.java" beforeDir="false" afterPath="$PROJECT_DIR$/TouchGrassModel/Money.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TouchGrassModel/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/TouchGrassModel/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TouchGrassModel/TouchGrassModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/TouchGrassModel/TouchGrassModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/group_76.iml" beforeDir="false" afterPath="$PROJECT_DIR$/group_76.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/group_76/.idea/libraries/lib.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/group_76/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/group_76/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/group_76/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/group_76/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/group_76/TouchGrassModel/Grid.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/group_76/TouchGrassModel/Grid.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/group_76/TouchGrassModel/Item.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/group_76/TouchGrassModel/Item.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/group_76/TouchGrassModel/ItemShop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/group_76/TouchGrassModel/ItemShop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/group_76/TouchGrassModel/Money.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/group_76/TouchGrassModel/Money.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/group_76/TouchGrassModel/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/group_76/TouchGrassModel/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/group_76/TouchGrassModel/TouchGrassModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/group_76/TouchGrassModel/TouchGrassModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/group_76/group_76.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/group_76/group_76.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/TouchGrassView.java" beforeDir="false" afterPath="$PROJECT_DIR$/views/TouchGrassView.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2Z7ZWgtLFUA5dyrIGVYeGRyRHMS" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "1d6329ec",
+    "last_opened_file_path": "C:/Program Files/Java/javafx-sdk-21/lib",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Global Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.main">
+    <configuration name="main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="TouchGrassApp" />
+      <module name="group_76" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Program Files\Java\javafx-sdk-21\lib&quot; --add-modules javafx.controls,javafx.fxml,javafx.media" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TouchGrassTest.gridInitializationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="group_76" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TouchGrassTest" />
+      <option name="METHOD_NAME" value="gridInitializationTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TouchGrassTest.highContrastTextureTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="group_76" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TouchGrassTest" />
+      <option name="METHOD_NAME" value="highContrastTextureTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TouchGrassTest.playerAttributesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="group_76" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TouchGrassTest" />
+      <option name="METHOD_NAME" value="playerAttributesTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TouchGrassTest.tileStatusTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="group_76" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TouchGrassTest" />
+      <option name="METHOD_NAME" value="tileStatusTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TouchGrassTest.touchGrassModelInitializationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="group_76" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TouchGrassTest" />
+      <option name="METHOD_NAME" value="touchGrassModelInitializationTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.main" />
+      <item itemvalue="JUnit.TouchGrassTest.gridInitializationTest" />
+      <item itemvalue="JUnit.TouchGrassTest.highContrastTextureTest" />
+      <item itemvalue="JUnit.TouchGrassTest.playerAttributesTest" />
+      <item itemvalue="JUnit.TouchGrassTest.tileStatusTest" />
+      <item itemvalue="JUnit.TouchGrassTest.touchGrassModelInitializationTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TouchGrassTest.highContrastTextureTest" />
+        <item itemvalue="JUnit.TouchGrassTest.touchGrassModelInitializationTest" />
+        <item itemvalue="JUnit.TouchGrassTest.tileStatusTest" />
+        <item itemvalue="JUnit.TouchGrassTest.playerAttributesTest" />
+        <item itemvalue="JUnit.TouchGrassTest.gridInitializationTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee3391b3-1e8d-4a40-8619-02582a90f90d" name="Changes" comment="" />
+      <created>1701775112643</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701775112643</updated>
+    </task>
+    <servers />
+  </component>
+</project>
