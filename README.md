@@ -5,6 +5,9 @@ Adam Osama Ebid:     adam.ebid@mail.utoronto.ca<br />
 Youssef Samaan:      youssef.samaan@mail.utoronto.ca<br />
 Nikhil Iyer:         nik.iyer@mail.utoronto.ca<br />
 
+# An Interactive and Accessible Game Developed using Java
+Working with my amazing team above, we have developed a 2D video game involving JavaFX and other libraries. This project was a group effort within which we employed the SOLID principles and AGILE methodology to ensure smooth development and a refined final product.
+
 ## Academic Integrity Reminder 
 If you are a student at the University of Toronto taking CSC207H, please remember that **you are responsible for following the University's [Academic Integrity Policy](https://governingcouncil.utoronto.ca/secretariat/policies/code-behaviour-academic-matters-january-1-2021).** You are reminded that copying any code from this repository **without proper citation** constitutes plagiarism and may result in an academic offense being raised against you. Should you find yourself in a situation where you are tempted to copy code from this repository, please take a step back and consider using course resources such as Office Hours or Piazza for assistance instead.
 
